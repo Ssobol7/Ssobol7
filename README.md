@@ -1,4 +1,9 @@
-![](https://www.codewars.com/users/Siergej/badges/micro)
+<p align="left">
+  <img  src="https://www.codewars.com/users/Siergej/badges/micro" alt="Image Description">
+</p>  
+
+
+
 - 👋 Hi, I’m @Ssobol7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
