@@ -1,5 +1,5 @@
 <p align="left">
-  <img  src="https://www.codewars.com/users/Siergej/badges/micro" alt="Image Description">
+  <img  src="https://www.codewars.com/users/Siergej/badges/large">
 </p>  
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
