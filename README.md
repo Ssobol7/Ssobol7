@@ -1,9 +1,10 @@
-![red-badge 47ac3e7d](https://github.com/Ssobol7/Ssobol7/assets/135639288/c2fc7457-0a32-4556-9eda-340bc1f66f6a)<p align="left">
+<p align="left">
   <img  src="https://www.codewars.com/users/Siergej/badges/large">
 </p>  
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![red-badge 47ac3e7d](https://github.com/Ssobol7/Ssobol7/assets/135639288/c2fc7457-0a32-4556-9eda-340bc1f66f6a)
 
 
 > [!NOTE]
