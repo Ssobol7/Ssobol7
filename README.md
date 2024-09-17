@@ -11,7 +11,7 @@
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
-> Workstation for Full-Stack Developer on FreeBSD 14.1
+> Workstation for Full-Stack Developer on FreeBSD 14.1 ![imgFreeBSD](https://github.com/user-attachments/assets/85048b47-aa21-4391-871f-cd3f5d4ccf85)
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -22,7 +22,7 @@
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
-![imgFreeBSD](https://github.com/user-attachments/assets/85048b47-aa21-4391-871f-cd3f5d4ccf85)
+
 
 - 👋 Hi, I’m @Ssobol7
 - 👀 I’m interested in ...
