@@ -11,8 +11,10 @@
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
-> Debian12-Customized-Configuration
-> Workstation for Full-Stack Developer on FreeBSD 14.1 
+
+> [!Debian12-Customized-Configuration](https://github.com/Ssobol7/Debian12-Customized-Configuration)
+
+> [!Workstation for Full-Stack Developer on FreeBSD 14.1]() 
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
