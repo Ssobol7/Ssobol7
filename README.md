@@ -11,7 +11,8 @@
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
-> Workstation for Full-Stack Developer on FreeBSD 14.1 ![imgFreeBSD](https://github.com/user-attachments/assets/85048b47-aa21-4391-871f-cd3f5d4ccf85)
+> Debian12-Customized-Configuration
+> Workstation for Full-Stack Developer on FreeBSD 14.1 
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -29,7 +30,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+![imgFreeBSD](https://github.com/user-attachments/assets/85048b47-aa21-4391-871f-cd3f5d4ccf85)
 <!---
 Ssobol7/Ssobol7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
