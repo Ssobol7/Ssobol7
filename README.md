@@ -22,6 +22,8 @@
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+![imgFreeBSD](https://github.com/user-attachments/assets/85048b47-aa21-4391-871f-cd3f5d4ccf85)
+
 - 👋 Hi, I’m @Ssobol7
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
